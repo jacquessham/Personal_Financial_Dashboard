@@ -14,6 +14,9 @@ Usually a person would have multiple financial statements - bank accounts, credi
 		</ul></li>
 	<li>Display Net Worth</li>
 	<li>Display Monthly Gain/Lost</li>
-	<li></li>
+	<li>Display the metrics trend</li>
 	<li></li>
 </ul>
+
+## Proof of Concept
+Coming soon...
