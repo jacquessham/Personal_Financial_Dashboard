@@ -1,9 +1,3 @@
-Description,,Summary Amt.
-Beginning balance as of 03/19/2024,,"1000.00"
-Total credits,,"440.12"
-Total debits,,"0.00"
-Ending balance as of 04/11/2024,,"559.88"
-
-Date,Description,Amount,Running Bal.
+Date,Description,Amount,Running_Bal
 03/19/2024,Beginning balance as of 03/19/2024,,"1000.00"
 04/08/2024,"Online Banking payment to CRD XXXX Confirmation# 0000000001","440.12","559.88"
