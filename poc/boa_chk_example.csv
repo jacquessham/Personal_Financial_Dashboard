@@ -1,3 +1,8 @@
 Date,Description,Amount,Running_Bal
-03/19/2024,Beginning balance as of 03/19/2024,,"1000.00"
-04/08/2024,"Online Banking payment to CRD XXXX Confirmation# 0000000001","440.12","559.88"
+03/19/2024,Beginning balance as of 03/19/2024,,"2,000.00"
+03/22/2024,"BKOFAMERICA ATM 03/21 #####################","-200.00","1,800.00"
+03/25/2024,"Check 3390","-450.00","1,350.00"
+03/28/2024,"Student Loan Payment","-800.00","550.00"
+04/01/2024,"Check 3391","-125.00","425.00"
+04/02/2024,"ABC Company Payroll","3,000.00","3,425.00"
+04/08/2024,"Online Banking payment to CRD XXXX Confirmation# 0000000001","440.12","2,984.88"
