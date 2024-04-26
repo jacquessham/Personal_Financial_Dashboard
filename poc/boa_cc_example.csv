@@ -1,3 +1,5 @@
-Posted Date,Reference Number,Payee,Address,Amount
-04/06/2024,00000000000000000000001,"Online payment from CHK XXXX","",440.12
-04/05/2024,00000000000000000000000,"Internet Bill","Internet Provider",-50.00
+Posted_Date,Reference_Number,Payee,Address,Amount,Expense_Category
+04/06/2024,00000000000000000000001,"Online payment from CHK XXXX","",-440.12,"Payment"
+04/05/2024,00000000000000000000000,"Internet Bill","Internet Provider",50.00,"Utility"
+04/07/2024,00000000000000000000002,"ABC Food","Little Japan SF",82.88,"Grocery"
+04/08/2024,00000000000000000000003,"Online Shop","Seattle, WA",127.99,"Leisure"
