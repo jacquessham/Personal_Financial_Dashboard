@@ -45,3 +45,24 @@ layout = {
 fig = go.Figure(data=data, layout=layout)
 
 plotly.offline.plot(fig, filename='chk_cc_viz.html')
+
+
+## All Expense
+# Data
+df_chkacct_temp = df_chkacct
+df_chkacct_temp['Amount'] = df_chkacct_temp['Amount']*-1
+df_all = pd.concat([df_chkacct_temp, df_cc], ignore_index=True)
+df_all = df_all[df_all['Amount']>0]
+data = []
+data.append(go.Pie(labels=df_all['Expense_Category'], 
+					values=df_all['Amount'],
+					hole=0.6))
+# Layout
+layout = {
+	'title':{'text':'Monthly Expense', 'x':0.5},
+	'plot_bgcolor':'rgba(0,0,0,0)'
+}
+
+fig = go.Figure(data=data, layout=layout)
+
+plotly.offline.plot(fig, filename='chk_allexpense_viz.html')
