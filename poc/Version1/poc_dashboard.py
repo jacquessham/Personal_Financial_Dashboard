@@ -1,3 +1,4 @@
+import os
 import json
 import pandas as pd
 import plotly
@@ -9,6 +10,7 @@ from boa_docs import *
 # To initiate ploty to run offline
 init_notebook_mode(connected=True)
 # Import data
+os.chdir('..')
 with open('poc_arguements.json') as f:
 	arg = json.load(f)
 
