@@ -32,12 +32,12 @@ POC Version 2 would put all the visualizations generated in Version 1 into one d
 The POC Version 2 works as expected and the full version will be developed based on this version. Here are the captured images:
 
 <img src=Images/dash_networth.png>
-<img src=Images/dash_allexpense.png>
+<img src=Images/dash_all_expense.png>
 
 <br><br>
 Here are the visualizations captured in POC Version 1.
 <img src=Images/net_worth_vis.png>
-<img src=Images/cc_expense.png>
+<img src=Images/cc_expense_vis.png>
 <img src=Images/all_expense_vis.png>
 
 
